@@ -1,0 +1,25 @@
+{
+  "project": "AI-Powered Web Security Learning Assistant",
+  "audience": "Second-year CSE students learning web development",
+  "generated_files": [
+    "docs/Research_Report.docx",
+    "docs/Project_Handbook.pdf",
+    "docs/Six_Slide_Presentation.pptx",
+    "docs/research_summary.md",
+    "docs/secure_coding_checklist.md",
+    "docs/code_pairs.md",
+    "docs/guide_1000_words.md",
+    "docs/quiz_answer_key.md",
+    "docs/presentation_outline.md",
+    "docs/demo_script.md",
+    "prompts/prompt_library.md",
+    "reports/ai_verification_report.md",
+    "reports/before_after_analysis.md",
+    "app/main.py",
+    "app/checker.py",
+    "app/ai_explainer.py",
+    "tests/test_checker.py",
+    ".github/workflows/security-check.yml"
+  ],
+  "note": "AI research tool comparison and local runtime test outputs must be completed by the student using actual tools/results."
+}
